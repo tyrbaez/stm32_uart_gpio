@@ -1,0 +1,2 @@
+out1Led: Miscellaneous.LED @ gpioPortB 0
+out2Led: Miscellaneous.LED @ gpioPortB 1
